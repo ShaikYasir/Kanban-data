@@ -89,9 +89,3 @@ The app comes with predefined categories based on a comprehensive study schedule
 - **Fitness Tasks**: Water intake, meal planning, exercise, calorie tracking
 - **College Tasks**: Classes, assignments, projects, quiz preparation
 
-
-If you encounter any issues or have questions, please create an issue in this repository.
-
----
-
-Made with ❤️ for productive daily scheduling
