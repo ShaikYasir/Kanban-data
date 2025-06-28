@@ -14,10 +14,6 @@ A modern, responsive Kanban-style daily task scheduler with integrated time trac
 - **Local Storage**: All data is stored locally in your browser
 - **Dark Mode Support**: Automatic dark mode based on system preferences
 
-## 🚀 Live Demo
-
-Visit the live application: [Your GitHub Pages URL]
-
 ## 📱 Installation as PWA
 
 1. Open the app in your browser
