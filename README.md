@@ -89,40 +89,6 @@ The app comes with predefined categories based on a comprehensive study schedule
 - **Fitness Tasks**: Water intake, meal planning, exercise, calorie tracking
 - **College Tasks**: Classes, assignments, projects, quiz preparation
 
-## 🎨 Customization
-
-The app can be easily customized by modifying:
-
-- `styles.css` for appearance
-- `script.js` for functionality
-- Task categories and default tasks in the JavaScript
-
-## 💾 Data Management
-
-- All data is stored locally using browser localStorage
-- Data persists across browser sessions
-- Export/import functionality for data backup (can be extended)
-
-## 🌐 Browser Compatibility
-
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
-## 📞 Support
 
 If you encounter any issues or have questions, please create an issue in this repository.
 
