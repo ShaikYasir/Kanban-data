@@ -1,0 +1,25 @@
+{
+  "name": "Daily Scheduler Kanban",
+  "short_name": "Scheduler",
+  "description": "A Kanban-style daily task scheduler with time tracking",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/feather-icons@4.29.0/icons/calendar.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "lifestyle", "education"],
+  "screenshots": [
+    {
+      "src": "https://via.placeholder.com/540x720/667eea/ffffff?text=Kanban+Board",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}

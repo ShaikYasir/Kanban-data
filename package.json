@@ -1,0 +1,30 @@
+{
+  "name": "daily-scheduler-kanban",
+  "version": "1.0.0",
+  "description": "A modern Kanban-style daily task scheduler with time tracking",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "build": "echo 'No build step required for vanilla JS app'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "kanban",
+    "scheduler",
+    "productivity",
+    "task-management",
+    "time-tracking",
+    "pwa"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://your-username.github.io/daily-scheduler-kanban",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/daily-scheduler-kanban.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/daily-scheduler-kanban/issues"
+  }
+}
